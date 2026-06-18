@@ -11,3 +11,6 @@ You can use this repository to practice using Git and GitHub
 - Gabriela Donoso
 - Melany Fuentes
 - Joshua Cobos
+
+## License
+This project is licensed under the MIT License
